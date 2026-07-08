@@ -27,15 +27,15 @@ How a hacker traditionally thinks during an attack
         |                   |                   |
         v                   v                   v
 
-   Web Application       API / Backend       Other Services
-        |                   |
-        v                   v
+    Web Application       API / Backend       Other Services
+         |                   |
+         v                   v
 
-+----------------+   +----------------+
-| User Accounts  |   | Authentication |
-| Panels         |   | Sessions      |
-| Data Systems   |   | Permissions   |
-+----------------+   +----------------+
+    +----------------+   +----------------+
+    | User Accounts  |   | Authentication |
+    | Panels         |   | Sessions      |
+    | Data Systems   |   | Permissions   |
+    +----------------+   +----------------+
                             |
                             v
                     +----------------+
