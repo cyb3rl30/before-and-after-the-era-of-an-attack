@@ -14,8 +14,8 @@ How a hacker traditionally thinks during an attack
                  |                    |
                  | - Domains          |
                  | - Subdomains       |
-                 | - Services        |
-                 | - Infrastructure  |
+                 | - Services         |
+                 | - Infrastructure   |
                  +--------------------+
                             |
                             v
@@ -33,8 +33,8 @@ How a hacker traditionally thinks during an attack
 
     +----------------+   +----------------+
     | User Accounts  |   | Authentication |
-    | Panels         |   | Sessions      |
-    | Data Systems   |   | Permissions   |
+    | Panels         |   | Sessions       |
+    | Data Systems   |   | Permissions    |
     +----------------+   +----------------+
                             |
                             v
@@ -71,7 +71,7 @@ How a hacker traditionally thinks during an attack
 
 
 
-                  +----------------------+
+                 +----------------------+
                  | Automated Attack     |
                  | Platform             |
                  +----------------------+
@@ -97,7 +97,7 @@ How a hacker traditionally thinks during an attack
                             |
                             v
         +--------------------------------------+
-        | Target Infrastructure               |
+        | Target Infrastructure                |
         |                                      |
         | Web apps                             |
         | APIs                                 |
